@@ -1,6 +1,6 @@
 # simpleInfluenceNetwork
 
-The Stack is used to find the Influence Network. Each user has some people he/she knows and those people further know other people. So we can calculate how is the most influenced perosn. </br> 
+The Stack is used to find the inforamtion about Influence Network . Each user has some people he/she knows and those people further know other people. So we can calculate how is the most influenced perosn. </br> 
 ## Input file syntax
 1. default file name: test.txt </br>
 2. the first line must contain the number of users present </br>
